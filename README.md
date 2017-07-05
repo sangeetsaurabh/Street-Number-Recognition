@@ -7,3 +7,12 @@ This project focused on a number recognition problem, which is basically a seque
 
 
 In this project we will use Street View House Numbers(SVHN)[1] dataset to train our application recognize numbers on images. SVHN is a real-world image dataset for developing machine learning and object recognition algorithms with minimal requirement on data preprocessing and formatting. The dataset is obtained from house numbers in Google Street View images. Image below represents several samples from this dataset.
+
+This project is implemented in multiple steps -
+
+###Step 1: Design and Test a Model Architecture
+
+###Step 2: Train a Model on a Realistic Dataset
+
+###Step 3: Test a Model on Newly-Captured Images
+
