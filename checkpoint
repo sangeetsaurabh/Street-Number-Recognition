@@ -1,0 +1,2 @@
+model_checkpoint_path: "svhn.convnet"
+all_model_checkpoint_paths: "svhn.convnet"
